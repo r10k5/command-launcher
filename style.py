@@ -5,7 +5,8 @@ BUTTON_FG = '#ffffff'
 ENTRY_BG = '#3c3c3c'
 ENTRY_FG = '#ffffff'
 
-FONT_TITLE = ('Arial', 18, 'bold')
+FONT_TITLE = ('Arial', 14)
+FONT_HEADER = ('Arial', 18)
 FONT_NORMAL = ('Arial', 11)
 FONT_BUTTON = ('Arial', 10)
 
